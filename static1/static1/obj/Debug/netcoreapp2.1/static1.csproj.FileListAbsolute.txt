@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\bin\Debug\netcoreapp2.1\static1.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\bin\Debug\netcoreapp2.1\static1.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\bin\Debug\netcoreapp2.1\static1.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\bin\Debug\netcoreapp2.1\static1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\bin\Debug\netcoreapp2.1\static1.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\obj\Debug\netcoreapp2.1\static1.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\obj\Debug\netcoreapp2.1\static1.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\obj\Debug\netcoreapp2.1\static1.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\obj\Debug\netcoreapp2.1\static1.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\obj\Debug\netcoreapp2.1\static1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\static1\static1\obj\Debug\netcoreapp2.1\static1.pdb

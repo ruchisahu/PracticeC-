@@ -1,0 +1,10 @@
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\bin\Debug\netcoreapp2.1\opratorOverloading.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\bin\Debug\netcoreapp2.1\opratorOverloading.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\bin\Debug\netcoreapp2.1\opratorOverloading.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\bin\Debug\netcoreapp2.1\opratorOverloading.dll
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\bin\Debug\netcoreapp2.1\opratorOverloading.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\obj\Debug\netcoreapp2.1\opratorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\obj\Debug\netcoreapp2.1\opratorOverloading.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\obj\Debug\netcoreapp2.1\opratorOverloading.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\obj\Debug\netcoreapp2.1\opratorOverloading.dll
+C:\Users\sankalpg\Desktop\PracticeC#\opratorOverloading\opratorOverloading\obj\Debug\netcoreapp2.1\opratorOverloading.pdb

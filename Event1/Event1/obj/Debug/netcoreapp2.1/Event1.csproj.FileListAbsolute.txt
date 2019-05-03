@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\bin\Debug\netcoreapp2.1\Event1.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\bin\Debug\netcoreapp2.1\Event1.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\bin\Debug\netcoreapp2.1\Event1.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\bin\Debug\netcoreapp2.1\Event1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\bin\Debug\netcoreapp2.1\Event1.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\obj\Debug\netcoreapp2.1\Event1.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\obj\Debug\netcoreapp2.1\Event1.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\obj\Debug\netcoreapp2.1\Event1.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\obj\Debug\netcoreapp2.1\Event1.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\obj\Debug\netcoreapp2.1\Event1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\Event1\Event1\obj\Debug\netcoreapp2.1\Event1.pdb

@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\bin\Debug\netcoreapp2.1\simpleclasstemp.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\bin\Debug\netcoreapp2.1\simpleclasstemp.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\bin\Debug\netcoreapp2.1\simpleclasstemp.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\bin\Debug\netcoreapp2.1\simpleclasstemp.dll
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\bin\Debug\netcoreapp2.1\simpleclasstemp.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\obj\Debug\netcoreapp2.1\simpleclasstemp.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\obj\Debug\netcoreapp2.1\simpleclasstemp.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\obj\Debug\netcoreapp2.1\simpleclasstemp.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\obj\Debug\netcoreapp2.1\simpleclasstemp.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\obj\Debug\netcoreapp2.1\simpleclasstemp.dll
+C:\Users\sankalpg\Desktop\PracticeC#\simpleclasstemp\simpleclasstemp\obj\Debug\netcoreapp2.1\simpleclasstemp.pdb

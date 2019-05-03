@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\bin\Debug\netcoreapp2.1\overatorOverloading2.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\bin\Debug\netcoreapp2.1\overatorOverloading2.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\bin\Debug\netcoreapp2.1\overatorOverloading2.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\bin\Debug\netcoreapp2.1\overatorOverloading2.dll
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\bin\Debug\netcoreapp2.1\overatorOverloading2.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\obj\Debug\netcoreapp2.1\overatorOverloading2.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\obj\Debug\netcoreapp2.1\overatorOverloading2.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\obj\Debug\netcoreapp2.1\overatorOverloading2.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\obj\Debug\netcoreapp2.1\overatorOverloading2.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\obj\Debug\netcoreapp2.1\overatorOverloading2.dll
+C:\Users\sankalpg\Desktop\PracticeC#\overatorOverloading2\overatorOverloading2\obj\Debug\netcoreapp2.1\overatorOverloading2.pdb

@@ -1,0 +1,10 @@
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\bin\Debug\netcoreapp2.1\DisposeDemo.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\bin\Debug\netcoreapp2.1\DisposeDemo.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\bin\Debug\netcoreapp2.1\DisposeDemo.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\bin\Debug\netcoreapp2.1\DisposeDemo.dll
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\bin\Debug\netcoreapp2.1\DisposeDemo.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\obj\Debug\netcoreapp2.1\DisposeDemo.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\obj\Debug\netcoreapp2.1\DisposeDemo.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\obj\Debug\netcoreapp2.1\DisposeDemo.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\obj\Debug\netcoreapp2.1\DisposeDemo.dll
+C:\Users\sankalpg\Desktop\PracticeC#\DisposeDemo\DisposeDemo\obj\Debug\netcoreapp2.1\DisposeDemo.pdb

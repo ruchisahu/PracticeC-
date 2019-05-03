@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\obj\Debug\netcoreapp2.1\Params.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\obj\Debug\netcoreapp2.1\Params.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\obj\Debug\netcoreapp2.1\Params.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\obj\Debug\netcoreapp2.1\Params.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\bin\Debug\netcoreapp2.1\Params.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\bin\Debug\netcoreapp2.1\Params.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\bin\Debug\netcoreapp2.1\Params.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\bin\Debug\netcoreapp2.1\Params.dll
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\bin\Debug\netcoreapp2.1\Params.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\obj\Debug\netcoreapp2.1\Params.dll
+C:\Users\sankalpg\Desktop\PracticeC#\Params\Params\obj\Debug\netcoreapp2.1\Params.pdb

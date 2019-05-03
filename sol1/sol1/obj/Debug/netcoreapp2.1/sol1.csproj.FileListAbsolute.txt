@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\bin\Debug\netcoreapp2.1\sol1.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\bin\Debug\netcoreapp2.1\sol1.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\bin\Debug\netcoreapp2.1\sol1.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\bin\Debug\netcoreapp2.1\sol1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\bin\Debug\netcoreapp2.1\sol1.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\obj\Debug\netcoreapp2.1\sol1.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\obj\Debug\netcoreapp2.1\sol1.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\obj\Debug\netcoreapp2.1\sol1.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\obj\Debug\netcoreapp2.1\sol1.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\obj\Debug\netcoreapp2.1\sol1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\sol1\sol1\obj\Debug\netcoreapp2.1\sol1.pdb

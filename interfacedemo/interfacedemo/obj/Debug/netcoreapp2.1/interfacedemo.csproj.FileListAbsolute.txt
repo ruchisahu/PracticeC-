@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\bin\Debug\netcoreapp2.1\interfacedemo.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\bin\Debug\netcoreapp2.1\interfacedemo.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\bin\Debug\netcoreapp2.1\interfacedemo.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\bin\Debug\netcoreapp2.1\interfacedemo.dll
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\bin\Debug\netcoreapp2.1\interfacedemo.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\obj\Debug\netcoreapp2.1\interfacedemo.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\obj\Debug\netcoreapp2.1\interfacedemo.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\obj\Debug\netcoreapp2.1\interfacedemo.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\obj\Debug\netcoreapp2.1\interfacedemo.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\obj\Debug\netcoreapp2.1\interfacedemo.dll
+C:\Users\sankalpg\Desktop\PracticeC#\interfacedemo\interfacedemo\obj\Debug\netcoreapp2.1\interfacedemo.pdb

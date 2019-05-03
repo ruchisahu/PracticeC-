@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleclasstemp", "simpleclasstemp\simpleclasstemp.csproj", "{B86280C5-AADA-4A05-8B60-D869946E3ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86280C5-AADA-4A05-8B60-D869946E3ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86280C5-AADA-4A05-8B60-D869946E3ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86280C5-AADA-4A05-8B60-D869946E3ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86280C5-AADA-4A05-8B60-D869946E3ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B9ECC3-7374-434B-8533-F768C6D53D93}
+	EndGlobalSection
+EndGlobal

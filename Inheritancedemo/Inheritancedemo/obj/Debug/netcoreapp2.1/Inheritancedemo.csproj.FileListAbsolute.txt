@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\bin\Debug\netcoreapp2.1\Inheritancedemo.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\bin\Debug\netcoreapp2.1\Inheritancedemo.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\bin\Debug\netcoreapp2.1\Inheritancedemo.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\bin\Debug\netcoreapp2.1\Inheritancedemo.dll
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\bin\Debug\netcoreapp2.1\Inheritancedemo.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\obj\Debug\netcoreapp2.1\Inheritancedemo.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\obj\Debug\netcoreapp2.1\Inheritancedemo.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\obj\Debug\netcoreapp2.1\Inheritancedemo.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\obj\Debug\netcoreapp2.1\Inheritancedemo.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\obj\Debug\netcoreapp2.1\Inheritancedemo.dll
+C:\Users\sankalpg\Desktop\PracticeC#\Inheritancedemo\Inheritancedemo\obj\Debug\netcoreapp2.1\Inheritancedemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\obj\Debug\netcoreapp2.1\EmployeeInheritance.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\obj\Debug\netcoreapp2.1\EmployeeInheritance.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\obj\Debug\netcoreapp2.1\EmployeeInheritance.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\bin\Debug\netcoreapp2.1\EmployeeInheritance.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\bin\Debug\netcoreapp2.1\EmployeeInheritance.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\bin\Debug\netcoreapp2.1\EmployeeInheritance.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\bin\Debug\netcoreapp2.1\EmployeeInheritance.dll
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\bin\Debug\netcoreapp2.1\EmployeeInheritance.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\obj\Debug\netcoreapp2.1\EmployeeInheritance.dll
+C:\Users\sankalpg\Desktop\PracticeC#\EmployeeInheritance\EmployeeInheritance\obj\Debug\netcoreapp2.1\EmployeeInheritance.pdb

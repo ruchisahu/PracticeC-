@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\bin\Debug\netcoreapp2.1\dependencyInjection1.deps.json
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\bin\Debug\netcoreapp2.1\dependencyInjection1.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\bin\Debug\netcoreapp2.1\dependencyInjection1.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\bin\Debug\netcoreapp2.1\dependencyInjection1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\bin\Debug\netcoreapp2.1\dependencyInjection1.pdb
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\obj\Debug\netcoreapp2.1\dependencyInjection1.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\obj\Debug\netcoreapp2.1\dependencyInjection1.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\obj\Debug\netcoreapp2.1\dependencyInjection1.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\obj\Debug\netcoreapp2.1\dependencyInjection1.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\obj\Debug\netcoreapp2.1\dependencyInjection1.dll
+C:\Users\sankalpg\Desktop\PracticeC#\dependencyInjection1\dependencyInjection1\obj\Debug\netcoreapp2.1\dependencyInjection1.pdb
