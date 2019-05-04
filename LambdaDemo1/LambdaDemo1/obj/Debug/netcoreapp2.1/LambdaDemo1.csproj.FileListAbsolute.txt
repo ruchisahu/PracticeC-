@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\bin\Debug\netcoreapp2.1\LambdaDemo1.deps.json
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\bin\Debug\netcoreapp2.1\LambdaDemo1.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\bin\Debug\netcoreapp2.1\LambdaDemo1.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\bin\Debug\netcoreapp2.1\LambdaDemo1.dll
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\bin\Debug\netcoreapp2.1\LambdaDemo1.pdb
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\obj\Debug\netcoreapp2.1\LambdaDemo1.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\obj\Debug\netcoreapp2.1\LambdaDemo1.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\obj\Debug\netcoreapp2.1\LambdaDemo1.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\obj\Debug\netcoreapp2.1\LambdaDemo1.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\obj\Debug\netcoreapp2.1\LambdaDemo1.dll
+C:\Users\sankalpg\Desktop\PracticeC-\LambdaDemo1\LambdaDemo1\obj\Debug\netcoreapp2.1\LambdaDemo1.pdb
