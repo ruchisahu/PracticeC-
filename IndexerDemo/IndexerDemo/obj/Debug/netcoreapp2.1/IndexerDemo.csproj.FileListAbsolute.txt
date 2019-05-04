@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\bin\Debug\netcoreapp2.1\IndexerDemo.deps.json
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\bin\Debug\netcoreapp2.1\IndexerDemo.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\bin\Debug\netcoreapp2.1\IndexerDemo.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\bin\Debug\netcoreapp2.1\IndexerDemo.dll
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\bin\Debug\netcoreapp2.1\IndexerDemo.pdb
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\obj\Debug\netcoreapp2.1\IndexerDemo.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\obj\Debug\netcoreapp2.1\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\obj\Debug\netcoreapp2.1\IndexerDemo.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\obj\Debug\netcoreapp2.1\IndexerDemo.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\obj\Debug\netcoreapp2.1\IndexerDemo.dll
+C:\Users\sankalpg\Desktop\PracticeC-\IndexerDemo\IndexerDemo\obj\Debug\netcoreapp2.1\IndexerDemo.pdb

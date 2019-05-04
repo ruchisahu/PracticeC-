@@ -6,7 +6,7 @@ namespace GenericDemo1
     {
         static void Main(string[] args)
         {
-            CustomList<Coffee> clc = new CustomList<Coffee>;
+            CustomList<Coffee> clc = new CustomList<Coffee>();
             Coffee coffee1 = new Coffee();
             Coffee coffee2= new Coffee();
             clc.Add(coffee1);

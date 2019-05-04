@@ -6,7 +6,7 @@ namespace GenericDemo1
 {
     class CustomList<T>
     {
-        public T this[int index] { get; set; }
+        extern public T this[int index] { get; set; }
         public void Add(T item)
         {
         }
