@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\bin\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.deps.json
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\bin\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\bin\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\bin\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.dll
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\bin\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.pdb
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\obj\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\obj\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\obj\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\obj\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\obj\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.dll
+C:\Users\sankalpg\Desktop\PracticeC-\GenericDemoOfBoxingUnBoxing\GenericDemoOfBoxingUnBoxing\obj\Debug\netcoreapp2.1\GenericDemoOfBoxingUnBoxing.pdb

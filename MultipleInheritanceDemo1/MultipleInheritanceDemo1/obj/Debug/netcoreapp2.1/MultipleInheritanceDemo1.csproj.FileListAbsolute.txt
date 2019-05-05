@@ -1,0 +1,11 @@
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\obj\Debug\netcoreapp2.1\MultipleInheritanceDemo1.csprojAssemblyReference.cache
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\obj\Debug\netcoreapp2.1\MultipleInheritanceDemo1.csproj.CoreCompileInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\obj\Debug\netcoreapp2.1\MultipleInheritanceDemo1.AssemblyInfoInputs.cache
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\obj\Debug\netcoreapp2.1\MultipleInheritanceDemo1.AssemblyInfo.cs
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\bin\Debug\netcoreapp2.1\MultipleInheritanceDemo1.deps.json
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\bin\Debug\netcoreapp2.1\MultipleInheritanceDemo1.runtimeconfig.json
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\bin\Debug\netcoreapp2.1\MultipleInheritanceDemo1.runtimeconfig.dev.json
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\bin\Debug\netcoreapp2.1\MultipleInheritanceDemo1.dll
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\bin\Debug\netcoreapp2.1\MultipleInheritanceDemo1.pdb
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\obj\Debug\netcoreapp2.1\MultipleInheritanceDemo1.dll
+C:\Users\sankalpg\Desktop\PracticeC-\MultipleInheritanceDemo1\MultipleInheritanceDemo1\obj\Debug\netcoreapp2.1\MultipleInheritanceDemo1.pdb
